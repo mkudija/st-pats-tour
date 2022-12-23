@@ -223,7 +223,7 @@ input, select, textarea {
 
 	div.shadow {
 		/*qq*/
-		box-shadow: 20px 20px 0px 0px #00763F;
+		box-shadow: 20px 0px 1px -10px #00763F;
 	}
 
 /* Container */
